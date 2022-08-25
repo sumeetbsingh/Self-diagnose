@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="">
+        <title>Self-Health Diagnosis System</title>
+
+        <link rel="stylesheet" href="style1.css">
+
+    </head>
+    
+   <body>
+
+    <!-- Header -->
+    <nav>
+        <div class="menu">
+          <div class="logo">
+            <a href="#">Self-Health Diagnosis</a>
+          </div>
+          <ul>
+            <li><a href="index1.html">Home</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="feedback.html">Feedback</a></li>
+            <li><a href="login.html">Login</a></li>
+          </ul>
+        </div>
+    </nav>
+
+    <!-- Page Content -->
+    <!-- Banner Starts Here -->
+    <div class="banner">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8 offset-md-2">
+            <div class="header-text caption">
+              <h2>"Your health matters... as health is the greatest human blesseing...!!"</h2>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Banner Ends Here -->
+
+    <!-- Services Starts Here -->
+    <div class="services-section">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="section-heading">
+                <span>Services</span>
+                <h2>Services we provide</h2>
+                <p>Followings are the services we provide to let you know about your health status.</p>
+              </div>
+            </div>
+            <div class="col-md-4 col-sm-6 col-xs-12">
+              <div class="service-item">
+                <i class="fa fa-database"></i>
+                <h4></h4>
+                <p></p>
+              </div>
+            </div>
+            <div class="col-md-4 col-sm-6 col-xs-12">
+              <div class="service-item">
+                <i class="fa fa-database"></i>
+                <h4></h4>
+                <p></p>
+              </div>
+            </div>
+            <div class="col-md-4 col-sm-6 col-xs-12">
+              <div class="service-item">
+                <i class="fa fa-database"></i>
+                <h4></h4>
+                <p></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Services Ends Here -->
+
+      <!-- Features Starts Here -->
+    <div class="features-section">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="section-heading">
+                <span>Find out what you need</span>
+                <h2>Features</h2>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Features Ends Here -->
+
+  </body>
+</html>
